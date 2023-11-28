@@ -133,4 +133,4 @@ RegisterNumber:  23012930
 
 # RESULT:
 
-Thus, the up counter and down counter are designed and the truth tables are verified using quartus software.
+Thus, the 4-bit up counter and down counter are designed and the truth tables are verified using quartus software.
