@@ -57,6 +57,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: Dan Jas J
 
 RegisterNumber:  23012930
+
 */
 
 
