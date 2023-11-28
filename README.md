@@ -100,13 +100,13 @@ RegisterNumber:  23012930
 
 # TIMING DIGRAMS:
 
-## up count:
+## up counter:
 
 ![Output](https://github.com/DanJas10/Exp-7-Synchornous-counters-/assets/150931233/d1f7da7c-2842-4879-b722-f9d72740c46f)
 
 
 
-## down count:
+## down counter:
 
 ![timing diagram](https://github.com/DanJas10/Exp-7-Synchornous-counters-/assets/150931233/1a411fd0-11aa-4d70-9571-c208f2522069)
 
