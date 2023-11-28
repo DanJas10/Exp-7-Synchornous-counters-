@@ -118,13 +118,13 @@ RegisterNumber:  23012930
 
 # TRUTH TABLE :
 
-## up count:
+## up counter:
 
 ![truth table](https://github.com/DanJas10/Exp-7-Synchornous-counters-/assets/150931233/ff0f1777-00ad-455a-b02d-f90421805063)
 
 
 
-## down count:
+## down counter:
 
 ![trut table](https://github.com/DanJas10/Exp-7-Synchornous-counters-/assets/150931233/f0a6d338-f0a1-4eae-8598-a82fd4d31ed1)
 
